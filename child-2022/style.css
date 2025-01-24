@@ -1,0 +1,29 @@
+/*
+Theme Name: Theme Hijo 2022
+Version: 1.0
+Description:  Theme Hijo 2022 es un tema original para montar tu web en muy pocos clics. Su gran ventaja es que incluye patrones personalizados para las secciones más habituales de cualquier web (clientes, colaboradores, horario, etc.). Gracias a los patrones, el diseño se hace mucho más intuitivo y ahorrarás mucho más tiempo. Es un tema perfecto para blogs, webs de emprendedores y pymes, agencias y pequeñas tiendas, ya que es compatible con WooCommerce. Su diseño limpio y moderno adapta perfectamente tu contenido a cualquier dispositivo.
+Template: twentytwentytwo
+*/
+ 
+/*----------------- Cambios a partir de aquí -------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.absoluto{
+    position: absolute;
+    z-index: 5;
+    color: white;
+    width: 90%;
+}
+
+.absoluto a{
+    color: white;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Open Sans', sans-serif!important;
+}
+
+.max-1200{
+max-width:1200px;
+	margin: 15px;
+}
